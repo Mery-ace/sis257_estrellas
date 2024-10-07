@@ -1,7 +1,7 @@
 # SIS257_TiendaRopa
 # JANDRALENCERIA
 
-**JANDRALENCERIA** es una tienda de ropa que ofrece productos tanto de manera virtual como presencial. Nos especializamos en ropa de lencería de alta calidad para nuestros clientes, brindando un servicio personalizado y cercano.
+**JANDRALENCERIA** Es una tienda de ropa que ofrece productos tanto de manera virtual como presencial. Nos especializamos en ropa de lencería de alta calidad para nuestros clientes, brindando un servicio personalizado y cercano.
 
 ## descripción del negocio
 
